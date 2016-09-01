@@ -1,3 +1,3 @@
-gsgonna deploy !
+gonna deploy !
 master branch
 multi branch push
